@@ -8,6 +8,7 @@
 
 # PART 1: ASSEMBLIES
 https://www.youtube.com/watch?v=8POEgb-sOBY
+
 Use the above video as a reference for your assembly.
 
 **Expectations:**
