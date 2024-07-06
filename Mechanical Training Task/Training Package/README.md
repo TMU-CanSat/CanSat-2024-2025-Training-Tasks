@@ -12,14 +12,19 @@ https://www.youtube.com/watch?v=8POEgb-sOBY
 Use the above video as a reference for your assembly. (There is no need for screws for the joints. Just ensure that the parts do not intersect.)
 
 **Expectations:**
-- Ability to use the Standard and Advanced Mating tool
-- Ability to use the Rotation and Move Component tool
+- Ability to use the Standard and Advanced Mating tool.
+- Ability to use the Rotation and Move Component tool.
 - Assembly is **fully functional**.
 
 - # PART 2: MODELLING
-Use the above video as a reference for your model.
+Create a camera gimbal+mount and make an assembly using the provided parts and your own parts.
+
+Use the models for gear motor and camera in "Part 2: Modelling" to guide your creation! 
 
 **Expectations:**
-- Ability to use 
-- Ability to use 
+- Ability to create sketches using a variety of lines.
+- Ability to use the extrude, hole cut, and fillet tools.
+- Proper dimensioning in millimeters.
+- Functionality of the design.
+- Attention to detail.
 - Assembly and parts created are **fully functional**.
