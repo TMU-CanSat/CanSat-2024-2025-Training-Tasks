@@ -29,5 +29,6 @@ You can use any PCB design software you want. Although on the team we use Altium
 # Resources that may help you:
 * [Phils lab is an amazing youtube channel for learning PCB Design](https://www.youtube.com/@PhilsLab)
   * [His playlist for Altium Specific Tutorials:](https://www.youtube.com/playlist?list=PLXSyc11qLa1a14N7d6UmngLg3G6sfBH4v)
-* You may want to use [KiCad](https://www.kicad.org/download/), which is much more user friendly for first time users. [This playlist](https://www.youtube.com/playlist?list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB) is a good introduction and covers some more general topics as well. Digikey is an amazing youtube channel for all things hardware.
+* You may want to use [KiCad](https://www.kicad.org/download/), which is much more user friendly for first time users. [This playlist](https://www.youtube.com/playlist?list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB) or [this playlist](https://www.youtube.com/playlist?list=PLn6004q9oeqGl91KifK6xHGuqvXGb374G) are good introductions and cover some more general topics as well. Digikey is an amazing youtube channel for all things hardware.
+* Remember: everything is already online, you just need to put in sometime to read and learn.
 
