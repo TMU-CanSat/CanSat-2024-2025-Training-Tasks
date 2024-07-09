@@ -23,6 +23,7 @@ Create a camera gimbal+mount for a drone and make an assembly using the provided
 Use the models for gear motor and camera in "Part 2: Modelling" to guide your creation! 
 
 ![image](https://github.com/TMU-CanSat/CanSat-2024-2025-Training-Tasks/assets/174564842/4223cbd2-d155-4f5e-8399-5e84ee9511fa)
+
 Use this picture as inspiration for your gimbal!
 
 **Expectations:**
