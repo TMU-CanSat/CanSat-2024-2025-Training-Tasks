@@ -18,10 +18,12 @@ Use the above video as a reference for your assembly. (There is no need for scre
 - Ability to use the Rotation and Move Component tool.
 - Assembly is **fully functional**.
 
-- # PART 2: MODELLING
+# PART 2: MODELLING
 Create a camera gimbal+mount for a drone and make an assembly using the provided parts and your own parts.
-
 Use the models for gear motor and camera in "Part 2: Modelling" to guide your creation! 
+
+![image](https://github.com/TMU-CanSat/CanSat-2024-2025-Training-Tasks/assets/174564842/4223cbd2-d155-4f5e-8399-5e84ee9511fa)
+Use this picture as inspiration for your gimbal!
 
 **Expectations:**
 - Ability to create sketches using a variety of lines.
@@ -29,4 +31,17 @@ Use the models for gear motor and camera in "Part 2: Modelling" to guide your cr
 - Proper dimensioning in millimeters.
 - Functionality of the design.
 - Attention to detail.
+- Creativity.
 - Assembly and parts created are **fully functional**.
+
+# BONUS: Finding Essential Hardware
+**Use the McMaster-Carr Website to search. (https://www.mcmaster.com/)**
+For your camera gimbal in "PART 2", find a screw that would be most ideal to hold the camera in your designed camera mount. 
+Next, use the website to find the CAD file, and upload it into your assembly. (It does not have to be Mated into the slot. Just have it visible outside.)
+
+**Expectations:**
+- Diameter of screw is correct.
+- Screw CAD file has been correctly uploaded into assembly.
+- Other characteristics of the screw align with the mount design.
+
+
