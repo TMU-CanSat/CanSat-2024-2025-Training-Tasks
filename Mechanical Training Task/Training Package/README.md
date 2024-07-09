@@ -37,6 +37,7 @@ Use this picture as inspiration for your gimbal!
 
 # BONUS: Finding Essential Hardware
 **Use the McMaster-Carr Website to search. (https://www.mcmaster.com/)**
+
 For your camera gimbal in "PART 2", find a screw that would be most ideal to hold the camera in your designed camera mount. 
 Next, use the website to find the CAD file, and upload it into your assembly. (It does not have to be Mated into the slot. Just have it visible outside.)
 
