@@ -44,6 +44,6 @@ Next, use the website to find the CAD file, and upload it into your assembly. (I
 **Expectations:**
 - Diameter of screw is correct.
 - Screw CAD file has been correctly uploaded into assembly.
-- Other characteristics of the screw align with the mount design.
+- Other characteristics of the screw align with your mount design.
 
 
