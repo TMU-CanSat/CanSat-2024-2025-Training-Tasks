@@ -19,7 +19,7 @@ Use the above video as a reference for your assembly. (There is no need for scre
 - Assembly is **fully functional**.
 
 # PART 2: MODELLING
-Create a camera gimbal+mount for a drone and make an assembly using the provided parts and your own parts.
+Create a camera gimbal+mount and make an assembly using the provided parts and your own parts.
 Use the models for gear motor and camera in "Part 2: Modelling" to guide your creation! 
 
 ![image](https://github.com/TMU-CanSat/CanSat-2024-2025-Training-Tasks/assets/174564842/4223cbd2-d155-4f5e-8399-5e84ee9511fa)
