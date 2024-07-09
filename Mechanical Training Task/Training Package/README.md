@@ -11,6 +11,7 @@
 
 https://www.youtube.com/watch?v=8POEgb-sOBY
 
+Use the models in "Part 1: Assemblies".
 Use the above video as a reference for your assembly. (There is no need for screws for the joints. Just ensure that the parts do not intersect.)
 
 **Expectations:**
