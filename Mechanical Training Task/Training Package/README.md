@@ -7,11 +7,11 @@
 - Please submit your completed training tasks to the following google form: https://forms.gle/cDdCxdLMkU6u7PkJ7
 
 # PART 1: ASSEMBLIES
+![image](https://github.com/TMU-CanSat/CanSat-2024-2025-Training-Tasks/assets/174564842/c74c514d-dcc8-4f97-bda5-fe6f40feb1ab)
+
 https://www.youtube.com/watch?v=8POEgb-sOBY
 
 Use the above video as a reference for your assembly. (There is no need for screws for the joints. Just ensure that the parts do not intersect.)
-
-![image](https://github.com/TMU-CanSat/CanSat-2024-2025-Training-Tasks/assets/174564842/c74c514d-dcc8-4f97-bda5-fe6f40feb1ab)
 
 **Expectations:**
 - Ability to use the Standard and Advanced Mating tool.
