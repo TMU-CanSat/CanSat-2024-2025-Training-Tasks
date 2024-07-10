@@ -2,6 +2,6 @@
 
 This repository contains the training tasks for the 3 sub-teams of the TMU CanSat team.
 
-Training tasks due date will be determined later.
+Training tasks are due **July 18th at 10PM EST**. Good luck!
 
 For any questions pertaining to the training tasks or the team contact us at **cansat@torontomu.ca**
