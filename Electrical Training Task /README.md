@@ -24,7 +24,7 @@ You can use any PCB design software you want. Although on the team we use Altium
 
 # Submission
 * Add all your PCB design files into a .zip.
-* Upload the .zip to the submission form: https://forms.gle/dysZ4Ah5vwthfXSN9
+* Upload the .zip to the submission form: https://forms.gle/BP9xzZRvc99Mqr298
 
 # Resources that may help you:
 * [Phils lab is an amazing youtube channel for learning PCB Design](https://www.youtube.com/@PhilsLab)
